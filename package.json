@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://adad22ro.github.io/css-proiect-1",
+  "homepage": "https://CristinaSuciu26.github.io/Ice-Cream",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /css-proiect-1/"
+    "build": "parcel build src/index.html --public-url /Ice-Cream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adad22ro/css-proiect-1.git"
+    "url": "git+https://github.com/CristinaSuciu26/Ice-Cream.git"
   },
   "keywords": [],
-  "author": "Rusu Andrei <gabirusu2000@gmail.com>",
+  "author": "Cristina Suciu <criss.criss262000@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adad22ro/css-proiect-1/issues"
+    "url": "https://github.com/CristinaSuciu26/Ice-Cream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
